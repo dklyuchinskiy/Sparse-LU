@@ -1,5 +1,4 @@
 #include "Header.h"
-#include "functions.h"
 
 // all source files should contain templates of functions
 

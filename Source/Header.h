@@ -6,7 +6,7 @@
 #include <omp.h>
 #include "mkl.h"
 
-#include "functions.h"
+#include "templates.h"
 
 
 #define N 50
