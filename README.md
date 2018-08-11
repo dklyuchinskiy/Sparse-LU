@@ -1,9 +1,17 @@
 # Sparse-LU
-Sequential LU factorization for the sparse block tridiagonal matrix:
 
+Sequential LU factorization for the sparse block tridiagonal matrix.
 
-       [ B C   ]
-Mat  = [ A B C ]
-       [   A B ]
+Type of Matrix:
+
+( B C ..... )
+
+( A B C ... )
+
+( ..A B C . )
+
+( ......... )
+
+( ..... A B )
      
 were A, B, C - square matrices
